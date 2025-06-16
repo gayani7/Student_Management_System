@@ -23,13 +23,6 @@ All data is stored securely in a **MySQL database** using **JDBC** connectivity.
 -Easy-to-use graphical interface (GUI)
 -Connects to a real database (MySQL)
 
-## How to Run the Project
-1. Clone this repository.
-2. Open the project in **NetBeans IDE**.
-3. Make sure MySQL Server is running.
-4. Update the database connection settings if needed.
-5. Build and Run the project.
-
 ## Screenshots
 
 ![Screenshot (1097)](https://github.com/user-attachments/assets/99842cdf-cd14-48a8-8950-ef107608c5fe)
